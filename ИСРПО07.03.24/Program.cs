@@ -15,7 +15,7 @@ namespace ИСРПО07._03._24
 
             double result = CalculateFunction(number);
 
-            Console.WriteLine($"Результат вычисления функции: {result}");
+            Console.WriteLine($"Результат вычисления функции менЯ зовут Катя: {result}");
 
             Console.ReadKey();
         }
